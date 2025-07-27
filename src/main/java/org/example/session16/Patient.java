@@ -1,4 +1,4 @@
-package main.java.org.example.session16;
+package org.example.session16;
 
 public class Patient extends Person{
     private String illness;

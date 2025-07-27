@@ -1,6 +1,6 @@
-package main.java.org.example.session16;
+package org.example.session16;
 
-public class Doctor extends Person{
+public class Doctor extends Person {
 
     public Doctor(String name, String id) {
         super(name, id);

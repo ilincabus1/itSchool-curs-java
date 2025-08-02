@@ -1,4 +1,4 @@
-package org.example.homeworkS17.S17;
+package org.example.homework.S17;
 import java.util.ArrayList;
 import java.util.Collections;
 

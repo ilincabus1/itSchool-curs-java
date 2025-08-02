@@ -1,4 +1,4 @@
-package org.example.homeworkS17.S18;
+package org.example.homework.S18;
 // Create a Student class with name, age, studentId, and email fields. Implement the equals() method to check all fields except the studentId. Implement the hashCode() method to use all fields except the studentId to calculate the hash code.
 public class Student {
     private String name;

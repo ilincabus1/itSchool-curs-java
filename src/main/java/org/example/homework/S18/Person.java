@@ -1,4 +1,4 @@
-package org.example.homeworkS17.S18;
+package org.example.homework.S18;
 
 public class Person {
     private String name;

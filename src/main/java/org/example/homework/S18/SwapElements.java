@@ -1,4 +1,4 @@
-package org.example.homeworkS17.S18;
+package org.example.homework.S18;
 
 public class SwapElements {
     public static <T> void swapElements(T[] array, int index1, int index2) {
